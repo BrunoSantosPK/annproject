@@ -1,0 +1,1 @@
+{"train_time": 142.05282354354858, "train_loss": 0.5106792797086713, "metrics": {"accuracy": 0.7992905323455384, "f1-score": 0.8884507732095835, "recall-score": 1.0, "precission-score": 0.7992905323455384}}
